@@ -3,8 +3,19 @@
 
 few most important variables are in code to change if you want to
 
-PUT YOUR OPENAI API KEY IN 'api_key.txt' file
+**PUT YOUR OPENAI API KEY IN _'api_key.txt'_ file**
 
-important commands:
-?history? - shows the history of messages in current chat
-?reset? - resets the conversation - clears the history
+# important commands:
+**?history?** - shows the history of messages in current chat
+**?reset?** - resets the conversation - clears the history
+
+
+
+
+tested on windows 11 python 3.12
+
+to run you also need ffmpeg installed in system
+you can do it like that:
+```
+winget install "FFmpeg (Essentials Build)"
+```

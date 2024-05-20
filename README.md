@@ -13,37 +13,30 @@ few most important variables are in code to change if you want to
 <br />
 <br />
 
-tested on windows 11 python 3.12 
+Tested on windows 11 python 3.12 
 <br />
-to run you will need some libraries and I'm too lazy to do requirements.txt so im just gonna tell you here how to install everything you will need:
+To run you will need some libraries and I'm too lazy to do requirements.txt so im just gonna tell you here how to install everything you will need:
 ```
 pip install PyAudio==0.2.14
 ```
-<br />
 ```
 pip install pydub==0.25.1
 ```
-<br />
 ```
 pip install torch==2.3.0
 ```
-<br />
 ```
 pip install keyboard==0.13.5
 ```
-<br />
 ```
 pip install SpeechRecognition==3.10.4
 ```
-<br />
 ```
 pip install requests==2.31.0
 ```
-<br />
 ```
 pip install pyttsx3==2.90
 ```
-<br />
 ```
 pip install gTTS==2.5.1
 ```

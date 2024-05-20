@@ -6,9 +6,11 @@ few most important variables are in code to change if you want to
 **PUT YOUR OPENAI API KEY IN _'api_key.txt'_ FILE**
 
 # important commands:
+Hold **CTRL + SHIFT + /** to talk or just write
+<br />
 **?history?** - shows the history of messages in current chat
 <br />
-**?reset?** - resets the conversation - clears the history
+**?reset?** or **CTRL + SHIFT + -** - resets the conversation - clears the history
 
 <br />
 <br />

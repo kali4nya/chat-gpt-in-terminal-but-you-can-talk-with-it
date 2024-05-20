@@ -47,7 +47,9 @@ you can do it like that:
 ```
 winget install "FFmpeg (Essentials Build)"
 ```
+
+Then just download all the files put them in one directory and run the .py file
 <br />
 <br />
 
-If you have any questions let me know
+If you have any questions let me know :3

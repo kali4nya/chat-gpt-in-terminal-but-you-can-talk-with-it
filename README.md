@@ -41,8 +41,9 @@ pip install pyttsx3==2.90
 pip install gTTS==2.5.1
 ```
 <br />
-you also need ffmpeg installed in system
+You will also need ffmpeg installed in system
 you can do it like that:
+
 ```
 winget install "FFmpeg (Essentials Build)"
 ```

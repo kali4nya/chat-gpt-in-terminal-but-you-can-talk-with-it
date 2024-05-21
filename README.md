@@ -1,4 +1,4 @@
-# Chat GPT in terminal but you can talk with him
+# Chat GPT in terminal but you can talk with it
  Chat GPT in console that can take audio input and uses tts to answer
 <br />
 few most important variables are in code to change if you want to

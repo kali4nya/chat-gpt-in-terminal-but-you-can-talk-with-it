@@ -18,6 +18,7 @@ Hold **CTRL + SHIFT + /** to talk or just write
 Tested on windows 11 python 3.12 
 <br />
 To run you will need some libraries and I'm too lazy to do requirements.txt so im just gonna tell you here how to install everything you will need:
+(those are the ones i used, newer or similar versions SHOULD work just fine)
 ```
 pip install PyAudio==0.2.14
 ```

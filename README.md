@@ -2,6 +2,15 @@
  Chat GPT in console that can take audio input and uses tts to answer
 <br />
 few most important variables are in code to change if you want to
+```
+######### important variables ###########
+
+model = 'gpt-3.5-turbo' #gpt model
+temperature = 1 #keep within 0 - 1 higher values can cause crashing
+voice = 0 #if you have one langueage in windows keep this at 0 or maybe it will work at 1 if you have more you can try higher numbers
+
+#########################################
+```
 <br />
 **PUT YOUR OPENAI API KEY IN _'api_key.txt'_ FILE**
 

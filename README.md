@@ -19,29 +19,17 @@ Tested on windows 11 python 3.12
 <br />
 To run you will need some libraries and I'm too lazy to do requirements.txt so im just gonna tell you here how to install everything you will need:
 (those are the ones i used, newer or similar versions SHOULD work just fine)
+<br>
+<b>requirements:</b>
 ```
-pip install PyAudio==0.2.14
-```
-```
-pip install pydub==0.25.1
-```
-```
-pip install torch==2.3.0
-```
-```
-pip install keyboard==0.13.5
-```
-```
-pip install SpeechRecognition==3.10.4
-```
-```
-pip install requests==2.31.0
-```
-```
-pip install pyttsx3==2.90
-```
-```
-pip install gTTS==2.5.1
+PyAudio==0.2.14
+pydub==0.25.1
+torch==2.3.0
+keyboard==0.13.5
+SpeechRecognition==3.10.4
+requests==2.31.0
+pyttsx3==2.90
+gTTS==2.5.1
 ```
 <br />
 You will also need ffmpeg installed in system
@@ -50,8 +38,8 @@ you can do it like that:
 ```
 winget install "FFmpeg (Essentials Build)"
 ```
+Newer versions of all those libs should work just as fine
 
-Then just download all the files put them in one directory and run the .py file
 <br />
 <br />
 

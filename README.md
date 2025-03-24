@@ -38,9 +38,7 @@ you can do it like that:
 ```
 winget install "FFmpeg (Essentials Build)"
 ```
-Newer versions of all those libs should work just as fine
 
-<br />
 <br />
 
 If you have any questions let me know :3
